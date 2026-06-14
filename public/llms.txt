@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://eb-822472f9.zappy5.app
+https://example.com
 מחפשים קונדיטוריה בעבודת יד שמרגישה כמו בית? ב-EB אנחנו יוצרים עבורכם עוגות ועוגיות בעיצובים אישיים לכל אירוע. טעם של אהבה בכל ביס. הזמינו עכשיו את המתוק המיוחד שלכם!
 
 ### אודות
-https://eb-822472f9.zappy5.app/about
+https://example.com/about
 ב-EB אנחנו מגשימים חלומות מתוקים עם תשוקה אמיתית לאפייה ביתית. הכירו את הסיפור, האהבה והמגע האישי שהופכים כל עוגה וקינוח לחוויה מרגשת ובלתי נשכחת. בואו להתאהב!
 
 ### גלריה
-https://eb-822472f9.zappy5.app/gallery
+https://example.com/gallery
 צפו בגלריה המהממת של EB וגלו עוגות ועוגיות בעיצובים ייחודיים שנעשו בעבודת יד קפדנית. מחפשים השראה לאירוע הקרוב? לחצו ותנו לעיניים לחגוג לפני שהטעם חוגג!
 
 ### צור קשר
-https://eb-822472f9.zappy5.app/contact
+https://example.com/contact
 רוצים עוגה או עוגיות בעיצוב אישי לאירוע הקרוב? צרו קשר עם EB עוד היום ונתפור יחד את הקינוח המושלם בשבילכם. אנחנו מחכים לשמוע מכם באהבה גדולה!
 
 ### Products
-https://eb-822472f9.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - EB
 
 ### Cart
-https://eb-822472f9.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://eb-822472f9.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://eb-822472f9.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://eb-822472f9.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://eb-822472f9.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://eb-822472f9.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - EB
 
 ### Category
-https://eb-822472f9.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - EB
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://eb-822472f9.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://eb-822472f9.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://eb-822472f9.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -93,8 +93,8 @@ Bakery & Confectionery
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://eb-822472f9.zappy5.app/sitemap.xml
-- Robots: https://eb-822472f9.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://eb-822472f9.zappy5.app/llms-full.txt
-- Products (JSON): https://eb-822472f9.zappy5.app/products.json
-- Products (Google Merchant RSS): https://eb-822472f9.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
