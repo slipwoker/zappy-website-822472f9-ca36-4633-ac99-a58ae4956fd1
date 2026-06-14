@@ -1,0 +1,100 @@
+# EB — Generative Engine Optimization Map
+
+> EB is a warm and lovingly crafted handmade dessert brand specializing in custom cakes and cookies. The brand radiates a homemade, personal touch with a focus on unique designs made to order. It has a soft, sweet aesthetic with a light blue color palette, and appeals to customers looking for special, beautifully designed treats for personal occasions or events.
+
+---
+
+## Pages
+
+### בית
+https://eb-822472f9.zappy5.app
+מחפשים קונדיטוריה בעבודת יד שמרגישה כמו בית? ב-EB אנחנו יוצרים עבורכם עוגות ועוגיות בעיצובים אישיים לכל אירוע. טעם של אהבה בכל ביס. הזמינו עכשיו את המתוק המיוחד שלכם!
+
+### אודות
+https://eb-822472f9.zappy5.app/about
+ב-EB אנחנו מגשימים חלומות מתוקים עם תשוקה אמיתית לאפייה ביתית. הכירו את הסיפור, האהבה והמגע האישי שהופכים כל עוגה וקינוח לחוויה מרגשת ובלתי נשכחת. בואו להתאהב!
+
+### גלריה
+https://eb-822472f9.zappy5.app/gallery
+צפו בגלריה המהממת של EB וגלו עוגות ועוגיות בעיצובים ייחודיים שנעשו בעבודת יד קפדנית. מחפשים השראה לאירוע הקרוב? לחצו ותנו לעיניים לחגוג לפני שהטעם חוגג!
+
+### צור קשר
+https://eb-822472f9.zappy5.app/contact
+רוצים עוגה או עוגיות בעיצוב אישי לאירוע הקרוב? צרו קשר עם EB עוד היום ונתפור יחד את הקינוח המושלם בשבילכם. אנחנו מחכים לשמוע מכם באהבה גדולה!
+
+### Products
+https://eb-822472f9.zappy5.app/products
+המוצרים שלנו - EB
+
+### Cart
+https://eb-822472f9.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://eb-822472f9.zappy5.app/checkout
+תשלום
+
+### Login
+https://eb-822472f9.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://eb-822472f9.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://eb-822472f9.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://eb-822472f9.zappy5.app/product/:slug
+פרטי המוצר - EB
+
+### Category
+https://eb-822472f9.zappy5.app/category/:slug
+מוצרים - EB
+
+## Legal & Policy
+
+### Privacy Policy
+https://eb-822472f9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://eb-822472f9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://eb-822472f9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About EB
+EB is a warm and lovingly crafted handmade dessert brand specializing in custom cakes and cookies. The brand radiates a homemade, personal touch with a focus on unique designs made to order. It has a soft, sweet aesthetic with a light blue color palette, and appeals to customers looking for special, beautifully designed treats for personal occasions or events.
+
+## Target Audience
+- חובבי עוגות לאירועים
+- זוגות חובבי מתוקים
+- לקוחות מתנות עסקיות
+
+## Industry
+Bakery & Confectionery
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://eb-822472f9.zappy5.app/sitemap.xml
+- Robots: https://eb-822472f9.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://eb-822472f9.zappy5.app/llms-full.txt
+- Products (JSON): https://eb-822472f9.zappy5.app/products.json
+- Products (Google Merchant RSS): https://eb-822472f9.zappy5.app/product-feed.xml
